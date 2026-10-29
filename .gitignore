@@ -1,0 +1,7 @@
+comos_webpage.html
+comos_webpage_files/
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
